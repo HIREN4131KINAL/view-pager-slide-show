@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_header_main.xml",
+        "source": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\src\\main\\res\\layout\\home_header_main.xml"
+    },
+    {
+        "merged": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_header_vp_image.xml",
+        "source": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\src\\main\\res\\layout\\home_header_vp_image.xml"
+    },
+    {
+        "merged": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_header_fragment_pdt_detail.xml",
+        "source": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\src\\main\\res\\layout\\home_header_fragment_pdt_detail.xml"
+    },
+    {
+        "merged": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_header_fragment.xml",
+        "source": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\src\\main\\res\\layout\\home_header_fragment.xml"
+    }
+]

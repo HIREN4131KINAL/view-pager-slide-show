@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_empty.png",
+        "source": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\src\\main\\res\\drawable-hdpi\\ic_empty.png"
+    },
+    {
+        "merged": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_error.png",
+        "source": "D:\\Android Materials\\AndroidImageSlideShow2\\app\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    }
+]

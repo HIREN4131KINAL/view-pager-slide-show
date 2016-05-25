@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Materials\AndroidImageSlideShow2\app\libs\universal-image-loader-1.8.4-with-sources.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="eba3ec78458fcb9bdd8bb7eff1a2f6f26f8fa00a">
+        <dex dex="D:\Android Materials\AndroidImageSlideShow2\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.4-with-sources_120cacf0a1a5ae9def102273db4738bdbd031417\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Materials\AndroidImageSlideShow2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d6f7d12dea7137af842a372c6a833edd176a9763">
+        <dex dex="D:\Android Materials\AndroidImageSlideShow2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c186ff8538fcf98701128e5c90eed3e241e5c7d8\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Studio Setup\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android Materials\AndroidImageSlideShow2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_04c573371f6b17d18b41ab2c7c4316f1a454b249\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android Materials\AndroidImageSlideShow2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffa578e66c481bca906b9983a31ee7df8f089ee9">
+        <dex dex="D:\Android Materials\AndroidImageSlideShow2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_59cde3b5feae11449a92b105bc911e99c1c20c25\classes.dex" />
+    </item>
+
+</items>
